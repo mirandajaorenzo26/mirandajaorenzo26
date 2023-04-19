@@ -10,8 +10,8 @@
     alt="mirandajaorenzo26" />
 </p>
 
-- 🌱 I’m currently learning **React** - 📫 How to reach me
-  **mirandajaorenzo@gmail.com**
+- 🌱 I’m currently learning **React**
+- 📫 How to reach me **mirandajaorenzo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
