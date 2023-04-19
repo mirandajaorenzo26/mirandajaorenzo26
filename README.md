@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jao Renzo Miranda</h1>
 <h3 align="center">
-  I am a dedicated and passionate student currently pursuing a Bachelor of
-  Science in Information Technology (BSIT) at Bulacan State University. I am highly motivated to excel in the field of front-end development and expected to graduate in June 2023 with a passion for crafting visually stunning and user-friendly interfaces.
+  A front-end developer from the Philippines.
 </h3>
+<h4> I am a dedicated and passionate student currently pursuing a Bachelor of
+  Science in Information Technology (BSIT) at Bulacan State University. I am highly motivated to excel in the field of front-end development and expected to graduate in June 2023 with a passion for crafting visually stunning and user-friendly interfaces.</h4>
 
 <p align="left">
   <img
