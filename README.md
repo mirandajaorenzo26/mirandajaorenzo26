@@ -13,6 +13,7 @@
     alt="mirandajaorenzo26" />
 </p>
 
+- 🔭 I’m currently working on **Personal Portfolio**
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **mirandajaorenzo@gmail.com**
 
