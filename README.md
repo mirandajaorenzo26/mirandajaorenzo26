@@ -4,7 +4,7 @@
 </h3>
 <p align="center"> 
   I am a dedicated and passionate student currently pursuing a Bachelor of
-  Science in Information Technology (BSIT) at Bulacan State University. I am highly motivated to excel in the field of front-end development and expected to graduate in June 2023 with a passion for crafting visually stunning and user-friendly interfaces.
+  Science in Information Technology (BSIT) at Bulacan State University. Expected to graduate in June 2023 with a passion for crafting visually stunning and user-friendly interfaces. I am highly motivated to excel in the field of front-end development.
 </p>
 
 <p align="left">
