@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jao Renzo Miranda</h1>
 <h3 align="center">
-  An aspiring front-end developer from the Philippines.
+  Front-end Developer
 </h3>
 <p align="center"> 
   I am a dedicated and passionate student currently pursuing a Bachelor of
