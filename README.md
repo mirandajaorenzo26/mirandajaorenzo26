@@ -13,7 +13,7 @@
     alt="mirandajaorenzo26" />
 </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Personal Website**
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **mirandajaorenzo@gmail.com**
 
@@ -90,7 +90,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mirandajaorenzo26&show_icons=true&locale=en&layout=compact"
     alt="mirandajaorenzo26" />
 </p>
-
 <p>
   &nbsp;<img
     align="center"
