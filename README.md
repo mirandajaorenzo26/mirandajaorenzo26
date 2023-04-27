@@ -64,7 +64,7 @@
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg"
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
       alt="react"
       width="40"
       height="40" />
