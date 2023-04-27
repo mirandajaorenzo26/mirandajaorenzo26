@@ -62,6 +62,13 @@
       width="40"
       height="40" />
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg"
+      alt="react"
+      width="40"
+      height="40" />
+  </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
