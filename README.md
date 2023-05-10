@@ -98,22 +98,3 @@
       height="40" />
   </a>
 </p>
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mirandajaorenzo26&show_icons=true&locale=en&layout=compact"
-    alt="mirandajaorenzo26" />
-</p>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mirandajaorenzo26&show_icons=true&locale=en"
-    alt="mirandajaorenzo26" />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mirandajaorenzo26&"
-    alt="mirandajaorenzo26" />
-</p>
