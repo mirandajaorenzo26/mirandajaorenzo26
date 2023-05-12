@@ -13,7 +13,7 @@
     alt="mirandajaorenzo26" />
 </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Movie Search App**
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [https://mirandajaorenzo.vercel.app/](https://mirandajaorenzo.vercel.app/)
 - 📫 How to reach me **mirandajaorenzo@gmail.com**
