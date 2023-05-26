@@ -4,7 +4,7 @@
 </h3>
 <p align="center"> 
   I am a dedicated and passionate student currently pursuing a Bachelor of
-  Science in Information Technology (BSIT) at Bulacan State University. Expected to graduate in June 2023 with a passion for crafting visually stunning and user-friendly interfaces. I am highly motivated to excel in the field of front-end development.
+  Science in Information Technology (BSIT) at Bulacan State University. I'm really excited because I'm set to graduate in June 2023. I absolutely love crafting visually stunning and user-friendly interfaces, and I'm super motivated to excel in the field of front-end development. It's my true passion, and I can't wait to make a mark in this industry!
 </p>
 
 <p align="left">
@@ -13,8 +13,8 @@
     alt="mirandajaorenzo26" />
 </p>
 
-- 🔭 I’m currently working on **Movie Search App**
-- 🌱 I’m currently learning **React**
+- 🔭 I am currently working on **Movie Search App**
+- 🌱 I am currently learning **React**
 - 👨‍💻 All of my projects are available at [https://mirandajaorenzo.vercel.app/](https://mirandajaorenzo.vercel.app/)
 - 📫 How to reach me **mirandajaorenzo@gmail.com**
 
